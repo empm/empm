@@ -1,9 +1,10 @@
 # 👋 ¡Hola! Soy Enrique 👨‍💻
 
-🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-🛠️ Técnico de soporte en empresa tecnológica  
-🚀 Apasionado por la programación, el desarrollo de proyectos y el ecosistema open source 
-👓 Hago mis pinitos en diseño gráfico y UI/UX
+- 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+- 🛠️ Técnico de soporte en empresa tecnológica  
+- 🚀 Apasionado por la programación, el desarrollo de proyectos y el ecosistema open source 
+- 👓 Desarrollo mi creatividad diseñando brandings y apps
+
 
 ---
 
