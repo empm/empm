@@ -6,8 +6,6 @@
 - 👓 Desarrollo mi creatividad diseñando brandings y apps
 
 
----
-
 ## 💼 ¿Qué hago?
 
 Actualmente compagino mis estudios con el trabajo, donde he desarrollado habilidades de resolución de problemas, atención al detalle y comunicación técnica.  
