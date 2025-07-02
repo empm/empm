@@ -15,8 +15,8 @@ En paralelo, estoy aprendiendo y practicando con proyectos propios, especialment
 - 🐳 **Contenedores con Docker**
 - 🧠 **Gestión de datos con MySQL y SQLite**
 - ⚙️ **Odoo y desarrollo de módulos**
-- 🕹️ Automatización y scripts útiles en el día a día
-- 👨🏼‍💻 Configuración de entornos GNU así como terminales y VIM
+- 🕹️ Automatización y **scripts** útiles en el día a día
+- 👨🏼‍💻 **Configuración** de entornos GNU así como **terminales** y **VIM**
 
 ## 📷 También comparto contenido en:
 
