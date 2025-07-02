@@ -19,38 +19,12 @@ En paralelo, estoy aprendiendo y practicando con proyectos propios, especialment
 - 🕹️ Automatización y scripts útiles en el día a día
 - 👨🏼‍💻 Configuración de entornos GNU así como terminales y VIM
 
-
-## 📚 Últimos proyectos
-
-🔹 **Jetpack Compose Roadmap**  
-Tutorial paso a paso con explicación visual de cómo empezar a programar interfaces modernas en Android.
-
-🔹 **Curso básico de Docker**  
-Mini-guía con ejemplos prácticos y comandos esenciales para entender imágenes, contenedores y despliegue.
-
-🔹 **Módulos Odoo en Python**  
-Módulo simple para gestionar libros, ideal para iniciarse en el desarrollo con Odoo.
-
-🔹 **Personalización de Arch + VIM**  
-Archivo de configuración y plugins
-
-
 ## 📷 También comparto contenido en:
 
 - YouTube 🎥 → [vawacode](https://youtube.com/@vawacode)  
 - Instagram 📸 → [@vawacode](https://instagram.com/vawacode)
 - Threads ＠ → [@enriquepmo](https://www.threads.com/@enriquepmo)
 - LinkedIn 💼 → [linkedin.com/in/enriqueperez](https://www.linkedin.com/in/enriqueperez)  
-
-
-## 🚧 Aprendiendo ahora mismo
-
-- NodeJS + Express
-- Integración con bases de datos
-- ReactJS + Angular
-- Arquitectura de proyectos en Git y GitHub  
-- Buenas prácticas de código y testing  
-
 
 
 ## 🛠️ Tecnologías que uso
